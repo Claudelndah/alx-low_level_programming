@@ -12,7 +12,7 @@ void puts2(char *str)
 	char *c = str;
 	int j;
 
-	while (*y != '\0')
+	while (*c != '\0')
 	{
 		c++;
 		i++;
