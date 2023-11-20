@@ -3,11 +3,10 @@
 #include "main.h"
 
 /**
- * _strcat - Concatenates two strings.
+ * _strncpy - Concatenates two strings.
  * @dest : The string to be checked.
  * @src : Tehe string to be checked.
- *
- *
+ * @n : number
  * Return: A pointer to the resulting string dest.
  */
 
